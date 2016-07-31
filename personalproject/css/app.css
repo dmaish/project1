@@ -1,3 +1,8 @@
- h1{
+/*restaurant title*/
+h1{
     font-family:"Great Vibes";
+}
+/*size of images in the blockgrid*/
+resizing{
+    height: 130%;
 }
